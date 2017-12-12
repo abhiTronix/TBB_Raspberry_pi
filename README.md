@@ -8,11 +8,16 @@ More info. at https://www.threadingbuildingblocks.org/
 A pre-compiled Latest binary (2018 Update 2) of TBB for the Raspberry Pi 3. It is available in a ".deb" package and will save you countless hours not having to compile it yourself.  This may or may not stay updated as I have to manually compile this version.  I will try to make available most major versions.  This was compiled on a Raspberry Pi 3 Model B+ running raspbian stretch.  This enables TBB which helps multithreading in many OpenCV algorithms .
 
 # Installation Instructions
+## (Tested on Raspberry pi 3 with Raspbarian stretch)
 Simple (but straight forward):
   ```
 sudo dpkg -i <path to libtbb-dev_2018-U2_armhf.deb>
 sudo ldconfig
+
   ```
+# Files:
+Support my hardwork and Email me at abhi.una12@gmail.com for Latest .deb files. 
+
 # Huge thanks to:
 https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for guiding me through.
 
