@@ -1,4 +1,3 @@
-# tbb_raspberry_pi
 Latest pre-compiled binary of TBB (2018-Update 2) for the Raspberry Pi 3
 
 # TBB ( Intel(R) Threading Building Blocks )
@@ -18,3 +17,5 @@ sudo ldconfig
 https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for guiding me through.
 
 https://github.com/01org/tbb for TBB binaries.
+
+#love from india ;)
