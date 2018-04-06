@@ -18,7 +18,7 @@ A pre-compiled Latest binary (2018 - Update 3) of TBB for the Raspberry Pi 3. It
 ## (Tested on Raspberry pi 3 with Raspbian Stretch)
 Simple (but straight forward):
 ```
-sudo dpkg -i <path to libtbb-dev_2018-U2_armhf.deb>
+sudo dpkg -i <path to libtbb-dev_2018-U3_armhf.deb>
 sudo ldconfig
 ```
 # Files:
