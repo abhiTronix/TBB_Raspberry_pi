@@ -1,6 +1,6 @@
 Latest pre-compiled binary of TBB (2018 - Update 3) for the Raspberry Pi 3.
 
-## Head over to https://github.com/abhiTronix/TBB_Raspberry_pi for installing OpenCV (3.4.1 dev) along with TBB (2018-Update 3) for the Raspberry Pi .
+## Head over to https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB for installing OpenCV (3.4.1 dev) along with TBB (2018-Update 3) for the Raspberry Pi .
 
 # Proof:
 
