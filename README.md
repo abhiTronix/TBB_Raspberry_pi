@@ -5,9 +5,9 @@ Latest pre-compiled binary of TBB (2018 - Update 4) for the Raspberry Pi 3.
 # Proof:
 
 ![](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/Screenshot%20from%202018-04-05%2014-58-08.jpg)
-My Proof of work: **TBB (version: 2018 - Update 4) installation** .
+My Proof of work: **TBB (version: 2018 - Update3) installation** .
 
-# Live Performance(check CPU Load) Boost - OpenCV(with TBB):
+# Live Performance Benchmarking (check CPU Load) - OpenCV (with TBB):
 
 [![Everything Is AWESOME](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/Youtube-video.png)](https://youtu.be/HBxyQU-c62o "Live! Raspberry Pi OpenCV & Dlib Multi-Snapchat Filters Python Implementation [Robust and Fastest]")
 
