@@ -9,7 +9,7 @@ TBB is a library that helps you leverage multi-core processor performance withou
 More info. at https://www.threadingbuildingblocks.org/
 
 # TBB for Raspberry Pi
-A pre-compiled Latest binary (2018 - Update 4) of TBB for the Raspberry Pi built from scratch inorder to achieve max multi-threaded performance. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi available besides this on internet ;). This may or may not stay updated as I have to manually compile this version.  I will try to make available most major versions.  This was compiled on a **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**.  This enables TBB which helps multithreading in many OpenCV algorithms .
+A pre-compiled Latest binary (2018 - Update 4) of TBB for the Raspberry Pi built from scratch inorder to achieve max multi-threaded performance. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi available besides this on internet ;). This may or may not stay updated as I have to manually compile this version.  I will try to make available most major versions.  This was compiled on a **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**.  This enables TBB which helps multithreading in many OpenCV algorithms. There is no latest source of TBB for Rpi on internet so i decided to create my own as part of my research. Hope this helps you, Cheers.
 
 # Proof:
 
