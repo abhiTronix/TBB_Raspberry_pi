@@ -12,10 +12,12 @@ More info. at https://www.threadingbuildingblocks.org/
 A pre-compiled Latest binary (2018 - Update 6) of TBB for the Raspberry Pi built from scratch inorder to achieve max multi-threaded performance. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi available besides this on internet ;). This may or may not stay updated as I have to manually compile this version.  I will try to make available most major versions.  This was compiled on a **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**.  This enables TBB which helps multithreading in many OpenCV algorithms. There is no latest source of TBB for Rpi on internet so i decided to create my own as part of my research. Hope this helps you, Cheers.
 
 # Proof:
-
+![](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/proof1.png)
+Files: **TBB (version: 2018 - Update-2 to Update-6) files on my machine.** .
+<br>
+<br>
 ![](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/new.gif)
 My Proof of work: **TBB (version: 2018 - Update 4) installation** .
-<br>
 <br>
 <br>
 # Live Performance Benchmarking (check CPU Load) - OpenCV (with TBB):
@@ -27,11 +29,12 @@ My Proof of work: **TBB (version: 2018 - Update 4) installation** .
 ## (Tested on Raspberry pi with Raspbian Stretch)
 Simple (but straight forward):
 ```
-sudo dpkg -i <path to libtbb-dev_2018-U6_armhf.deb>
+sudo dpkg -i <path to libtbb-dev_2018-U6_arm.deb>
 sudo ldconfig
 ```
 # Files:
-Tryout **Old TBB file (as a demo)** is available now.<br>
+Tryout **Old TBB file (as a demo)** is available [libtbb-dev_4.5-1_armhf.deb].<br>
+
 **But if you want the latest .deb files and full installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou.
 
 # Huge thanks to:
