@@ -9,7 +9,7 @@ TBB is a library that helps you leverage multi-core processor performance withou
 More info. at https://www.threadingbuildingblocks.org/
 
 # TBB for Raspberry Pi
-A pre-compiled Latest binary (2018 - Update 6) of TBB for the Raspberry Pi built from scratch inorder to achieve max multi-threaded performance. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi available besides this on internet, so i decided to create my own as part of my research;). This may or may not stay updated as I have to manually compile this version.  I will try to make available most major versions.  This was compiled on a **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**.  This enables TBB which helps multithreading in many OpenCV algorithms. Hope this helps you too, Cheers.
+A pre-compiled Latest binary (2018 - Update 6) of TBB for the Raspberry Pi built from scratch inorder to achieve max multi-threaded performance & compatibility. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi available besides this on internet, so i decided to create my own as part of my research(Through cross-compiling & various source-code tweaks). This may or may not stay updated as I have to manually compile this version, still I will try to make available most major versions. This was compiled for **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**. This also enables TBB which helps multithreading in many OpenCV algorithms. Hope this helps you too, Cheers.
 
 # Proof:
 ![](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/proof1.png)
@@ -38,7 +38,7 @@ Tryout **Old TBB file (as a demo)** is available ![libtbb-dev_4.5-1_armhf.deb](h
 **But if you want the latest .deb files and full installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou.
 
 # Huge thanks to:
-https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for guiding me through.
+https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for inspiring me.
 
 https://github.com/01org/tbb for TBB binaries.
 
