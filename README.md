@@ -20,9 +20,7 @@ Files: **TBB (version: 2018 - Update-2 to Update-6) files on my machine.** .
 My Proof of work: **TBB (version: 2018 - Update 4) installation** .
 
 
-
 # Live Performance Benchmarking (check CPU Load) - OpenCV (with TBB):
-
 [![Everything Is AWESOME](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/Youtube-video.png)](https://youtu.be/HBxyQU-c62o "Live! Raspberry Pi OpenCV & Dlib Multi-Snapchat Filters Python Implementation [Robust and Fastest]")
 
 
@@ -34,12 +32,12 @@ sudo dpkg -i <path to libtbb-dev_2018-U6_arm.deb>
 sudo ldconfig
 ```
 # Files:
-Tryout **Old TBB file (as a demo)** is available here: [libtbb-dev_4.5-1_armhf.deb](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/libtbb-dev_4.5-1_armhf.deb).<br>
+Tryout **Old TBB file (as a demo)** is available here: [libtbb-dev_4.5-1_armhf.deb](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/libtbb-dev_4.5-1_armhf.deb).  
 
-***But if you want the latest .deb files and full installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou.***
+***But if you want the latest .deb files and full installation support associated, it is only provided through email (abhi.una12@gmail.com).*** *Also consider supporting my countless hours of hardwork and helping me out by making small Donation for my ongoing Independent A.I. Research in return. Thankyou.*
+
+***Don't forget to Share, drop a :star:***
 
 # Huge thanks to:
 https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for inspiring me.  
 https://github.com/01org/tbb for TBB binaries.
-
-love from India ;)
