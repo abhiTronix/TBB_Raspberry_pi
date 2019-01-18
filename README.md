@@ -9,7 +9,7 @@ TBB is a library that helps you leverage multi-core processor performance withou
 More info. at https://www.threadingbuildingblocks.org/
 
 # TBB for Raspberry Pi
-A pre-compiled Latest binary (2018 - Update 6) of TBB for the Raspberry Pi, built from scratch inorder to achieve max multi-threaded performance & compatibility. It is available in a ".deb" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi yet implemented , so i decided to create my own files as part of my research(Through cross-compiling & various source-code tweaks) and made available this on internet. This may or may not stay updated as I have to manually compile this version, still I will try to make available most major versions. This was compiled for **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**. This also enables TBB which helps multithreading in many OpenCV algorithms. Hope this helps you too, Cheers.  
+A pre-compiled Latest binary (2018 - Update 6) of TBB for the Raspberry Pi, built from scratch inorder to achieve max multi-threaded performance & compatibility. It is available in a "*.deb*" package and will save your countless hours as not have to compile it yourself. There is no other Latest source of TBB file for raspberry pi yet implemented , so i decided to create my own files as part of my research(Through cross-compiling & various source-code tweaks) and made available this on internet. This may or may not stay updated as I have to manually compile this version, still I will try to make available most major versions. This was compiled for **Raspberry Pi 2/3 Model B/B+ running raspbian Stretch**. This also enables TBB which helps multithreading in many OpenCV algorithms. Hope this helps you too, Cheers.  
 **Looks for files down below.**
 
 # Proof:
@@ -36,8 +36,6 @@ sudo ldconfig
 Tryout **Old TBB file (as a demo)** is available here: [**libtbb-dev_4.5-1_armhf.deb**](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/libtbb-dev_4.5-1_armhf.deb).  
 
 ***But if you want the latest .deb files and full installation support associated, it is only provided through email (abhi.una12@gmail.com).*** *Also consider supporting my countless hours of hardwork and helping me out by making small Donation for my ongoing Independent A.I. Research in return. Thankyou.*
-
-***Don't forget to Share, drop a :star:***
 
 # Huge thanks to:
 https://hackaday.com/2016/12/01/running-intel-tbb-on-a-raspberry-pi/ for inspiring me.  
