@@ -29,11 +29,11 @@ My Proof of work: **TBB (version: 2018 - Update 4) installation** .
 ### (Tested on Raspberry pi with Raspbian Stretch)
 Simple (but straight forward):
 ```
-sudo dpkg -i <path to libtbb-dev_2018-U6_arm.deb>
+sudo dpkg -i <path to libtbb-dev_2018-U2_arm.deb>
 sudo ldconfig
 ```
 # Files:
-Tryout **Old TBB file (as a demo)** is available here: [**libtbb-dev_4.5-1_armhf.deb**](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/libtbb-dev_4.5-1_armhf.deb).  
+Tryout **Demo (TBB 2018-Update2) file** is available here: [**libtbb-dev_2018-U2_arm.deb**](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/libtbb-dev_2018-U2_arm.deb).  
 
 ***But if you want the latest .deb files and full installation support associated, it is only provided through email (abhi.una12@gmail.com).*** *Also consider supporting my countless hours of hardwork and helping me out by making small Donation for my ongoing Independent A.I. Research in return. Thankyou.*
 
